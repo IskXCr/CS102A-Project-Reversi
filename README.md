@@ -13,7 +13,7 @@ Full score exceeded.
 
 ## Features
 
-1. GUI purely written using ``JavaFX``. Customized controls, effects and rich 2D animations, including
+1. GUI written purely in ``JavaFX``. Customized controls, effects and rich 2D animations, including
 
    a. Acrylic style game preview.
 
